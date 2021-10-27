@@ -1,0 +1,25 @@
+.image-area{
+    height: 75px;
+    width: auto;
+}
+.image-area img{
+    height: 100%;
+}
+.login-area{
+    border: 2px solid #ddd;
+    padding: 135px 0;
+    width: 100%;
+}
+
+.third-party-login-btn{
+    max-width: 95%;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border: 1px solid lightgray;
+}
+.third-party-login-btn img{
+    height: 35px;
+}

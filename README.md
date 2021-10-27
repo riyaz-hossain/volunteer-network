@@ -9,4 +9,4 @@
 3. Admin control panel is available with authentication.
 4. Admin can add or delete events, modify the volunteer list.
 
-"# volunteer-network" 
+# volunteer-network
